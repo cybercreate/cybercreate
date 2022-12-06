@@ -2,7 +2,10 @@
 
                                                                                                                              
 <h2>👨‍💻 My Cybersecurity Projects:</h2>
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS
+  - [Active Directory Bulk User Creation]
+
+<h2>👨‍💻 Certifications:</h2>
+  - [Security+]
 
 <h2>📺 YouTube Videos</h2>
 
