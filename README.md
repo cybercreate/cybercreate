@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mary! <br/><a <a href="(https://www.linkedin.com/in/mary-ntimeah-589a57242/)">Cybersecurity Professional</a>, <a 
+<h1>Hi, I'm Mary! <br/><a <a href="(https://www.linkedin.com/in/mary-ntimeah-589a57242/)">Cybersecurity Professional</a> 
 
                                                                                                                              
 <h2>👨‍💻 My Cybersecurity Projects:</h2>
